@@ -1,0 +1,25 @@
+{
+  "name": "dvdrental_database",
+  "version": "1.0.0",
+  "description": "dvdrentalDataBase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johanntelesforo/dvdrentalDB.git"
+  },
+  "keywords": [
+    "dvdrental"
+  ],
+  "author": "telesforo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johanntelesforo/dvdrentalDB/issues"
+  },
+  "homepage": "https://github.com/johanntelesforo/dvdrentalDB#readme",
+  "dependencies": {
+    "pg": "^8.7.1"
+  }
+}
